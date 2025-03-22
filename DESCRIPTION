@@ -1,0 +1,22 @@
+Package: hahaHub
+Type: Package
+Title: A Joke Generator Package
+Description: This package generates various types of jokes, including dad jokes, programmer jokes and funny error messages, either printed out on the console or saved as an image.
+Version: 1.0.0
+Date: 2025-03-20
+Authors: Lena S
+License: MIT + file LICENSE
+Imports:
+    httr,
+    ggplot2,
+    magick,
+    jsonlite,
+    dplyr,
+    jpeg,
+    png
+Suggests:
+    testthat (>= 3.0.0)
+Encoding: UTF-8
+LazyData: true
+Video: https://youtu.be/YuFfMj8Sbd8
+Config/testthat/edition: 3

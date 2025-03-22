@@ -1,0 +1,12 @@
+export(dad_joke_img)
+export(dad_joke_print)
+export(progr_joke_img)
+export(progr_joke_print)
+export(error_message)
+
+import(httr)
+import(jsonlite)
+import(jpeg)
+import(png)
+import(magick)
+
